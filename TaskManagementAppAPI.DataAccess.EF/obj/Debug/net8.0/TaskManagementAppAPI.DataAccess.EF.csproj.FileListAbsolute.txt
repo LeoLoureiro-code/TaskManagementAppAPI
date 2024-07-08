@@ -1,0 +1,15 @@
+C:\Users\leo_e\OneDrive\Documents\C#\TaskManagementAppAPI.DataAccess.EF\bin\Debug\net8.0\TaskManagementAppAPI.DataAccess.EF.deps.json
+C:\Users\leo_e\OneDrive\Documents\C#\TaskManagementAppAPI.DataAccess.EF\bin\Debug\net8.0\TaskManagementAppAPI.DataAccess.EF.runtimeconfig.json
+C:\Users\leo_e\OneDrive\Documents\C#\TaskManagementAppAPI.DataAccess.EF\bin\Debug\net8.0\TaskManagementAppAPI.DataAccess.EF.dll
+C:\Users\leo_e\OneDrive\Documents\C#\TaskManagementAppAPI.DataAccess.EF\bin\Debug\net8.0\TaskManagementAppAPI.DataAccess.EF.pdb
+C:\Users\leo_e\OneDrive\Documents\C#\TaskManagementAppAPI.DataAccess.EF\obj\Debug\net8.0\TaskManagementAppAPI.DataAccess.EF.csproj.AssemblyReference.cache
+C:\Users\leo_e\OneDrive\Documents\C#\TaskManagementAppAPI.DataAccess.EF\obj\Debug\net8.0\TaskManagementAppAPI.DataAccess.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo_e\OneDrive\Documents\C#\TaskManagementAppAPI.DataAccess.EF\obj\Debug\net8.0\TaskManagementAppAPI.DataAccess.EF.AssemblyInfoInputs.cache
+C:\Users\leo_e\OneDrive\Documents\C#\TaskManagementAppAPI.DataAccess.EF\obj\Debug\net8.0\TaskManagementAppAPI.DataAccess.EF.AssemblyInfo.cs
+C:\Users\leo_e\OneDrive\Documents\C#\TaskManagementAppAPI.DataAccess.EF\obj\Debug\net8.0\TaskManagementAppAPI.DataAccess.EF.csproj.CoreCompileInputs.cache
+C:\Users\leo_e\OneDrive\Documents\C#\TaskManagementAppAPI.DataAccess.EF\obj\Debug\net8.0\TaskManagementAppAPI.DataAccess.EF.sourcelink.json
+C:\Users\leo_e\OneDrive\Documents\C#\TaskManagementAppAPI.DataAccess.EF\obj\Debug\net8.0\TaskManagementAppAPI.DataAccess.EF.dll
+C:\Users\leo_e\OneDrive\Documents\C#\TaskManagementAppAPI.DataAccess.EF\obj\Debug\net8.0\refint\TaskManagementAppAPI.DataAccess.EF.dll
+C:\Users\leo_e\OneDrive\Documents\C#\TaskManagementAppAPI.DataAccess.EF\obj\Debug\net8.0\TaskManagementAppAPI.DataAccess.EF.pdb
+C:\Users\leo_e\OneDrive\Documents\C#\TaskManagementAppAPI.DataAccess.EF\obj\Debug\net8.0\TaskManagementAppAPI.DataAccess.EF.genruntimeconfig.cache
+C:\Users\leo_e\OneDrive\Documents\C#\TaskManagementAppAPI.DataAccess.EF\obj\Debug\net8.0\ref\TaskManagementAppAPI.DataAccess.EF.dll
