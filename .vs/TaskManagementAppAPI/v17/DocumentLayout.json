@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leo_e\\OneDrive\\Documents\\C#\\TaskManagementAppAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91685299-3C2E-491E-86E4-5ABEA6A8B693}|TaskManagementAppAPI.csproj|c:\\users\\leo_e\\onedrive\\documents\\c#\\taskmanagementappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91685299-3C2E-491E-86E4-5ABEA6A8B693}|TaskManagementAppAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F2BC14-8A18-421D-94E3-242D94AA86EF}|..\\TaskManagementAppAPI.DataAccess.EF\\TaskManagementAppAPI.DataAccess.EF.csproj|c:\\users\\leo_e\\onedrive\\documents\\c#\\taskmanagementappapi.dataaccess.ef\\models\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F2BC14-8A18-421D-94E3-242D94AA86EF}|..\\TaskManagementAppAPI.DataAccess.EF\\TaskManagementAppAPI.DataAccess.EF.csproj|c:\\users\\leo_e\\onedrive\\documents\\c#\\taskmanagementappapi.dataaccess.ef\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91685299-3C2E-491E-86E4-5ABEA6A8B693}|TaskManagementAppAPI.csproj|c:\\users\\leo_e\\onedrive\\documents\\c#\\taskmanagementappapi\\controllers\\usertaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91685299-3C2E-491E-86E4-5ABEA6A8B693}|TaskManagementAppAPI.csproj|solutionrelative:controllers\\usertaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leo_e\\OneDrive\\Documents\\C#\\TaskManagementAppAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\leo_e\\OneDrive\\Documents\\C#\\TaskManagementAppAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T23:19:04.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserTaskController.cs",
+              "DocumentMoniker": "C:\\Users\\leo_e\\OneDrive\\Documents\\C#\\TaskManagementAppAPI\\Controllers\\UserTaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserTaskController.cs",
+              "ToolTip": "C:\\Users\\leo_e\\OneDrive\\Documents\\C#\\TaskManagementAppAPI\\Controllers\\UserTaskController.cs",
+              "RelativeToolTip": "Controllers\\UserTaskController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAWwDsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T20:49:01.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserTask.cs",
+              "DocumentMoniker": "C:\\Users\\leo_e\\OneDrive\\Documents\\C#\\TaskManagementAppAPI.DataAccess.EF\\Models\\UserTask.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagementAppAPI.DataAccess.EF\\Models\\UserTask.cs",
+              "ToolTip": "C:\\Users\\leo_e\\OneDrive\\Documents\\C#\\TaskManagementAppAPI.DataAccess.EF\\Models\\UserTask.cs",
+              "RelativeToolTip": "..\\TaskManagementAppAPI.DataAccess.EF\\Models\\UserTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T20:29:54.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\leo_e\\OneDrive\\Documents\\C#\\TaskManagementAppAPI.DataAccess.EF\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagementAppAPI.DataAccess.EF\\Repositories\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\leo_e\\OneDrive\\Documents\\C#\\TaskManagementAppAPI.DataAccess.EF\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "..\\TaskManagementAppAPI.DataAccess.EF\\Repositories\\TaskRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T20:16:58.478Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
